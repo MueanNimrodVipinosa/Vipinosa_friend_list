@@ -1,16 +1,16 @@
 [
     {
-        "First_Name" : "MUEAN NEMROD",
-        "Last_Name" : "VIPINOSA",
+        "First_Name" : "Arnold",
+        "Last_Name" : "Sasa",
         "Age" : "21",
-        "Address" : "BAROTAC",
-        "Contact_Number" : "09065816492"
+        "Address" : "Calinog",
+        "Contact_Number" : "000000000"
     },
   
     {
         "Friends List" : [
           {
-              "Name": "al jude",
+              "Name": "albin",
               "Age": "21",
               "Address": "Pavia",
               "Likes" :"SINGING",
